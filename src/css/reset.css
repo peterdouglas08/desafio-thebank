@@ -1,14 +1,14 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-ul, li {
-    list-style: none;
+ul, li{
+    list-style-type: none;
 }
 
-a {
+a{
     text-decoration: none;
-    color: #000;
+    color: #000000;
 }
